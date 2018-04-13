@@ -21,3 +21,4 @@ if (!isDedicated && !hasInterface) then {
 	call compile preprocessFile "core\init_headless.sqf";
 };
 
+//Teste Djavu
